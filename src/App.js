@@ -73,6 +73,7 @@ const App = () => {
         <input value={newNote} onChange={handleNoteChange} />
         <button type="submit">save</button>
       </form>
+      <pre>continous deployment check...</pre>
     </div>
   );
 };
